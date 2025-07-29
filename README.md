@@ -100,17 +100,19 @@ If you’d like to contribute:
 - Optimize existing code or add comments for better understanding
 ```
 
-```
+---
+
 ## 🙋‍♀️ Author
 
 **Mst. Aysa Siddika Meem**
-🎓 *BSc in Computer Science & Engineering*
-📍 *Independent University, Bangladesh*
+🎓 _BSc in Computer Science & Engineering_
+📍 _Independent University, Bangladesh_
 📫 Email: [aysasiddikameem3141@gmail.com](mailto:aysasiddikameem3141@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/mst-aysa-siddika-meem/) | [GitHub](https://github.com/MRaysa)
 
+---
 
-```
+## ⭐ Support This Project
 
 ⭐ If you find this repository helpful, feel free to star it to show your support!
 
