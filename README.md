@@ -57,6 +57,7 @@ VS Code with Jupyter Extension
 
 ```
 
+````bash
 🎯 Who Is This For?
 This repository is ideal for:
 
@@ -68,43 +69,56 @@ This repository is ideal for:
 
 🧪 Anyone seeking a practical guide to mastering foundational DSA concepts
 
-```
-
 🛠️ Contribution Guidelines
 Contributions are welcome and appreciated!
 
 If you’d like to contribute:
 
-Fork this repository
+1. 🍴 Fork this repository
+2. 🛠️ Create a new branch
+   ```bash
+   git checkout -b feature-name
+   ```
+3. 💾 Commit your changes
+   ```bash
+   git commit -m "Add: Description of your feature"
+   ```
+4. 🚀 Push to your branch
+   ```bash
+   git push origin feature-name
+   ```
+5. 📬 Open a Pull Request
 
-Create a new branch (git checkout -b feature-name)
-
-Commit your changes (git commit -m 'Add new feature')
-
-Push to the branch (git push origin feature-name)
-
-Open a pull request
-
-Want to add: Sorting algorithms? Tree traversals? More visualizations? Go for it!
-
+✨ Want to contribute? You can:
+- Add sorting algorithm implementations
+- Improve or expand tree traversal methods
+- Include more visualizations or interactive examples
+- Optimize existing code or add comments for better understanding
 ```
 
-```
-🙋‍♀️ Author
-Mst. Aysa Siddika Meem
-👩‍💻 Computer Science & Engineering, Independent University, Bangladesh
-📫 aysasiddikameem3141@gmail.com
-🔗 LinkedIn(https://www.linkedin.com/in/mst-aysa-siddika-meem/) | GitHub(https://github.com/MRaysa)
 
+```
+## 🙋‍♀️ Author
+
+**Mst. Aysa Siddika Meem**
+🎓 *BSc in Computer Science & Engineering*
+📍 *Independent University, Bangladesh*
+📫 Email: [aysasiddikameem3141@gmail.com](mailto:aysasiddikameem3141@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/mst-aysa-siddika-meem/) | [GitHub](https://github.com/MRaysa)
+
+
+```
 ⭐ If you find this repository helpful, feel free to star it to show your support!
-
 
 ---
 
-Let me know if you want:
-- A visual banner added at the top
-- Tags (like `#python`, `#dsa`, `#interview-prep`) for GitHub topics
-- A `LICENSE` file or contribution template added
+### Want to Enhance This Repository?
 
-Would you like this content auto-uploaded to your repo with proper formatting?
-```
+Let me know if you'd like any of the following:
+- 🎯 A visual banner at the top
+- 🏷️ GitHub topics/tags (e.g., `#python`, `#dsa`, `#interview-prep`)
+- 📄 A `LICENSE` file or contribution guidelines (`CONTRIBUTING.md`)
+
+Would you like this content automatically uploaded to your repository with proper formatting?
+
+````
