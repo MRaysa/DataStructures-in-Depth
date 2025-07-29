@@ -46,7 +46,7 @@ cd DataStructures-in-Depth
 
 Install the required libraries:
 
-```bash
+`````bash
 You can then open any .ipynb file using:
 
 Jupyter Notebook
@@ -55,7 +55,7 @@ Google Colab
 
 VS Code with Jupyter Extension
 
-```
+
 
 ````bash
 🎯 Who Is This For?
@@ -68,6 +68,8 @@ This repository is ideal for:
 👩‍💻 Self-taught developers strengthening algorithmic thinking
 
 🧪 Anyone seeking a practical guide to mastering foundational DSA concepts
+
+`````
 
 🛠️ Contribution Guidelines
 Contributions are welcome and appreciated!
@@ -89,13 +91,14 @@ If you’d like to contribute:
    ```
 5. 📬 Open a Pull Request
 
+```bash
+
 ✨ Want to contribute? You can:
 - Add sorting algorithm implementations
 - Improve or expand tree traversal methods
 - Include more visualizations or interactive examples
 - Optimize existing code or add comments for better understanding
 ```
-
 
 ```
 ## 🙋‍♀️ Author
@@ -108,6 +111,7 @@ If you’d like to contribute:
 
 
 ```
+
 ⭐ If you find this repository helpful, feel free to star it to show your support!
 
 ---
@@ -115,10 +119,13 @@ If you’d like to contribute:
 ### Want to Enhance This Repository?
 
 Let me know if you'd like any of the following:
+
 - 🎯 A visual banner at the top
 - 🏷️ GitHub topics/tags (e.g., `#python`, `#dsa`, `#interview-prep`)
 - 📄 A `LICENSE` file or contribution guidelines (`CONTRIBUTING.md`)
 
 Would you like this content automatically uploaded to your repository with proper formatting?
 
-````
+```
+
+```
