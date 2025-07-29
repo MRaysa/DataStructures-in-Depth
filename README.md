@@ -46,7 +46,7 @@ cd DataStructures-in-Depth
 
 Install the required libraries:
 
-`````bash
+```bash
 You can then open any .ipynb file using:
 
 Jupyter Notebook
@@ -55,9 +55,9 @@ Google Colab
 
 VS Code with Jupyter Extension
 
+```
 
-
-````bash
+```bash
 🎯 Who Is This For?
 This repository is ideal for:
 
@@ -69,7 +69,7 @@ This repository is ideal for:
 
 🧪 Anyone seeking a practical guide to mastering foundational DSA concepts
 
-`````
+```
 
 🛠️ Contribution Guidelines
 Contributions are welcome and appreciated!
@@ -125,7 +125,3 @@ Let me know if you'd like any of the following:
 - 📄 A `LICENSE` file or contribution guidelines (`CONTRIBUTING.md`)
 
 Would you like this content automatically uploaded to your repository with proper formatting?
-
-```
-
-```
